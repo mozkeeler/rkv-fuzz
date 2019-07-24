@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+.*.swp
+/out
+/data.mdb
+/lock.mdb
+/Cargo.lock
+/core.*
